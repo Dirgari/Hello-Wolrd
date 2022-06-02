@@ -1,2 +1,2 @@
 # Hello-World
-Awal yang tidak burik untuk belajar coding
+Awal yang tidak burik untuk belajar coding oke
